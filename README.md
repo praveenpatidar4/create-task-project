@@ -1,4 +1,16 @@
-# FirstAngularApp
+# CreateTaskApp
+
+# CreateTask - Angular Task Management App
+
+**CreateTask** is an enterprise-level task management system built using Angular. It enables users to create, assign, and manage tasks in a visually appealing and user-friendly interface.
+
+
+## 🛠 Tech Stack
+
+- **Frontend**: Angular
+- **Styling**: CSS
+
+
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.7.
 
